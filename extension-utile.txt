@@ -1,0 +1,3 @@
+HTML CSS Support
+IntelliSense for CSS class names in HTML : permet d'afficher les class bootstrap pour cela enfoncer ctrl plus barre espace
+live server
